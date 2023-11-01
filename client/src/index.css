@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  :root, * {
+    @apply m-0 p-0 box-border;
+  }
+
+  body {
+    @apply bg-[#141414] text-white;
+  }
+  
+  button {
+    @apply flex justify-center items-center;
+  }
+  
+  input::placeholder {
+    @apply text-sm;
+  }
+}
+
+@layer components {
+  #cartItems-container::-webkit-scrollbar {
+    width: 10px;
+  }
+  #cartItems-container::-webkit-scrollbar-track {
+    background-color: #292929;
+    border-radius: 100px;
+  }
+  #cartItems-container::-webkit-scrollbar-thumb {
+    background-color: #595858;
+    border-radius: 100px;
+  }
+}

@@ -1,0 +1,94 @@
+{
+    "items": [
+      {
+        "id": 1,  
+        "name": "Boot",
+        "category": "Clothing",
+        "image": "https://bafybeiburjqezcltrtjnjzblf6ycan66mb4kjj5y2e3xa6hu6rxvnfno5a.ipfs.nftstorage.link/image%20(2).jpg",
+        "cost": "1",
+        "rating": 4,
+        "stock": 10
+      },
+      {
+        "id": 2,
+        "name": "Hat",
+        "category": "Clothing",
+        "image": "https://bafybeifsp2j32rct2ry5sk4bqrelutv2twq4ipu5nuwpzpsiqvnatkjfve.ipfs.nftstorage.link/?filename=image+%283%29.jpg",
+        "cost": "2",
+        "rating": 5,
+        "stock": 6
+      },
+      {
+        "id": 3,
+        "name": "Shirt",
+        "category": "Clothing",
+        "image": "https://bafybeiemojbar5oiqykkisofgv4hbk24lfhsxnzhb6mj7zj6xqdbnzjuiy.ipfs.nftstorage.link/image%20(14).jpg",
+        "cost": "0.25",
+        "rating": 2,
+        "stock": 24
+      },
+      {
+        "id": 4,
+        "name": "Shoes",
+        "category": "clothing",
+        "image": "https://bafybeifd4hv5jbhhqfgypdjyimdcxax7vignf7sracznti2k2rpraacceu.ipfs.nftstorage.link/image%20(17).jpg",
+        "cost": "0.25",
+        "rating": 5,
+        "stock": 3
+      },
+      {
+        "id": 5,
+        "name": "T-Shirt",
+        "category": "clothing",
+        "image": "https://bafybeibzrxwocx24xe5oxqosd5kxo3nfqstszowxcxxauu3fm2ctu7q57m.ipfs.nftstorage.link/image%20(11).jpg",
+        "cost": "0.10",
+        "rating": 4,
+        "stock": 12
+      },
+      {
+        "id": 6,
+        "name": "Perfume",
+        "category": "clothing",
+        "image": "https://bafybeibqfcgols5xac2jfj7jophgwbins4b4jhua57umhsb5epwqnlodk4.ipfs.nftstorage.link/image%20(21).jpg",
+        "cost": "1.25",
+        "rating": 4,
+        "stock": 0
+      },
+      {
+        "id": 7,
+        "name": "Bag",
+        "category": "Clothing",
+        "image": "https://bafybeibxrjbjhucleed4tqw2v5fzrltbf5iy52rrzzqqydp3jghmvnglyy.ipfs.nftstorage.link/image%20(4).jpg",
+        "cost": "0.05",
+        "rating": 4,
+        "stock": 15
+      },
+      {
+        "id": 8,
+        "name": "Jeans",
+        "category": "Clothing",
+        "image": "https://bafybeicstzoyk7n5b5t67xgi4v6znhc7z7c6vpnugikvaedynrgecr7wq4.ipfs.nftstorage.link/image%20(9).jpg",
+        "cost": "0.20",
+        "rating": 4,
+        "stock": 0
+      },
+      {
+        "id": 9,
+        "name": "Bag",
+        "category": "Clothing",
+        "image": "https://bafybeifetd4ma5dej3vnjpc4lo5gj76mxmphrgfoumfvckng7tu4epanbi.ipfs.nftstorage.link/image%20(12).jpg",
+        "cost": "0.12",
+        "rating": 3,
+        "stock": 12
+      },
+      {
+        "id": 10,
+        "name": "Shirt",
+        "category": "Clothing",
+        "image": "https://bafybeiczrvfzegaoklobwb532qefbmzzh5fzdf63euei6ohqrk4qoiyy3a.ipfs.nftstorage.link/image%20(1).jpg",
+        "cost": "0.15",
+        "rating": 3,
+        "stock": 12
+      }
+    ]
+  }
